@@ -1,6 +1,6 @@
 # MT_spiking-attractor-memory-network-model-with-non-orthogonal-patterns
 mynetwork_final.py includes the code for the designed spiking attractor memory network model with non-orthogonal patterns, the 
-simulated delayed-response task (with disruptor) the network's capacity is checked and compared with as well as the plot displaying
+simulated delayed-response task (with distractor) the network's capacity is checked and compared with as well as the plot displaying
 the spike raster of the Minicolumns and the weight of the synapse between Minicolum 0  of Hypercolum 0 and 2.
 The different configurations necessary and the parameters which are scaled for the different tasks
 (amount of HCs, overlap percentage, whether to include a distractor) are annoted in the respective line.
